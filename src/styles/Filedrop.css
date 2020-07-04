@@ -1,0 +1,15 @@
+.positive, .negative {
+	display: block;
+	margin: 10px auto;
+	width: 10px;
+	height: 10px;
+	-moz-border-radius: 5px;
+	-webkit-border-radius: 5px;
+	border-radius: 5px;
+}
+.positive {
+	background: green;
+}
+.negative {
+	background: red;
+}
